@@ -1,0 +1,15 @@
+version="0.1"
+tags={
+	"Map"
+	"Military"
+	"National Focuses"
+	"Sound"
+	"Technologies"
+	"Translation"
+	"Historical"
+	"Ideologies"
+	"Events"
+}
+name="The Final Victory"
+supported_version="1.10.8"
+path="mod/The_Final_Victory"
